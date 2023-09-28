@@ -1,14 +1,14 @@
 # Modelagem.comp
 
-#Modelagem Conceitual
+## Modelagem Conceitual
 
 ![image](https://github.com/IlbertoDomingos/Modelagem.comp/assets/107081757/8e3a4ffa-83c5-45b3-b67e-90e90b1c3479)
 
-#Modelagem Logica
+## Modelagem Logica
 
 ![image](https://github.com/IlbertoDomingos/Modelagem.comp/assets/107081757/15aaaf71-61fb-474e-87b0-ab8a97e44791)
 
-#Modelagem Fisica
+## Modelagem Fisica
 
 ```SQL
 --criação banco de dados
